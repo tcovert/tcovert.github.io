@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thomas R. Covert / Assistant Professor, University of Chicago Booth School of Business"
+title                    : "Thomas R. Covert"
 title_separator          : "-"
 name                     : &name "Thomas R. Covert"
-description              : &description "personal description"
-url                      : https://tcovert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor, University of Chicago Booth School of Business"
+url                      : https://tcovert.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tcovert/tcovert.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,10 +84,10 @@ author:
   avatar           : "tcovert.jpg" # "profile.png"
   bio              : "Energy/IO Economist"
   location         : "Chicago, IL"
-  employer         : "University of Chicago Booth School of Business"
+  employer         : "University of Chicago"
   pubmed           : 
   googlescholar    : 
-  email            : "mailto:thomas.covert@chicagobooth.edu"
+  email            : "thomas.covert@chicagobooth.edu"
   researchgate     :  
   uri              :
   bitbucket        :
