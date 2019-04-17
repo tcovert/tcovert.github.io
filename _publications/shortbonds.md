@@ -10,5 +10,6 @@ This paper describes the market for borrowing corporate bonds using a comprehens
 
 Joint work with [Paul Asquith](https://mitsloan.mit.edu/faculty/directory/paul-asquith), [Andrea Au](https://www.linkedin.com/in/andreaau/) and [Parag Pathak](https://economics.mit.edu/faculty/ppathak)
 
+
 [Download paper here](http://tcovert.github.io/files/shortbonds.pdf)
 
