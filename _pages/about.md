@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Thomas R. Covert / Assistant Professor, University of Chicago Booth School of Business"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
