@@ -5,11 +5,8 @@ permalink: /publication/shortbonds
 excerpt: 'We characterize the distribution and correlates of corporate bond borrowing costs from a major securities lender.'
 date: 2012-08-10
 venue: 'Journal of Financial Economics'
-paperurl: 'http://tcovert.github.io/files/shortbonds.pdf'
-citation: 'Paul Asquith, Andrea S. Au, Thomas Covert and Parag A. Pathak  (2012). &quot;The Market for Borrowing Corporate Bonds.&quot; <i>Journal of Financial Economics</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper describes the market for borrowing corporate bonds using a comprehensive dataset from a major lender.  The cost of borrowing corporate bonds is comparable to the cost of borrowing stock, between 10 and 20 basis points, and both have fallen over time.  Factors that influence borrowing costs are loan size, percentage of inventory lent, rating, and borrower identity.  There is no evidence that bond short sellers have private information.  Bonds with CDS contracts are more actively lent than those without.  Finally, the 2007 Credit Crunch does not affect average borrowing costs or loan volume, but does increase borrowing cost variance. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://tcovert.github.io/files/shortbonds.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
