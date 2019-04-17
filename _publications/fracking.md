@@ -1,8 +1,8 @@
 ---
-title: "Experiential and Social Learning in Firms: The Case of Hydraulic Fracturing in the Bakken Shale"
+title: "Experiential and Social Learning in Firms: The Case of Hydraulicn Fracturing in the Bakken Shale"
 collection: publications
 permalink: /publication/fracking
-excerpt: 'I measure the extent to which oil companies in North Dakota learned how to use fracking technology from their own and their competitor's experiences, and document that intentional experimenting behavior is rare.'
+excerpt: "I measure the extent to which oil companies in North Dakota learned how to use fracking technology from their own and their competitors' experiences, and document that intentional experimenting behavior is rare."
 date: 2015-02-22
 venue: 'Working Paper'
 ---
