@@ -2,7 +2,7 @@
 title: "Will We Ever Stop Using Fossil Fuels?"
 collection: publications
 permalink: /publication/jep
-excerpt: 'In the absence of coordinated climate policy, we argue that the world should not expect to ``run out'' of supply or demand for fossil fuels for the forseeable future.'
+excerpt: 'In the absence of coordinated climate policy, we argue that the world should not expect to "run out" of supply or demand for fossil fuels for the forseeable future.'
 date: 2016-02-01
 venue: 'Journal of Economic Perspectives'
 ---
