@@ -11,7 +11,8 @@ title                    : "Thomas R. Covert"
 title_separator          : "-"
 name                     : &name "Thomas R. Covert"
 description              : &description "Assistant Professor, University of Chicago Booth School of Business"
-url                      : https://tcovert.github.io
+# url                      : https://tcovert.github.io
+url                      : https://www.tcovert.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tcovert/tcovert.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
