@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV as of February, 2019](http://tcovert.github.io/files/cv.pdf)
+[Download CV as of February, 2022](http://tcovert.github.io/files/cv.pdf)
 
 Education
 ======
