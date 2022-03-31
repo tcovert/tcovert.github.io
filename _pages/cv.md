@@ -19,5 +19,5 @@ Education
 Work experience
 ======
 * July 2015 to present: Assistant Professor, University of Chicago Booth School of Business
-* July 2014 to June 2014: Postdoctoral Scholar, Energy Policy Institute at Chicago
+* July 2014 to June 2015: Postdoctoral Scholar, Energy Policy Institute at Chicago
 * September 2005 to May 2008: Analyst/Senior Analyst, Cornerstone Research
