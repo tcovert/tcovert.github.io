@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Economics at the [University of Chicago](http://www.uchicago.edu)'s [Booth School of Business](http://www.chicagobooth.edu).  I am also an affiliate of [EPIC](http://epic.uchicago.edu) and a Faculty Research Fellow at the [NBER](http://www.nber.org).  My primary research interests are industrial organization and energy economics.
+I am the Scientific Director of the [University of Chicago](http://www.uchicago.edu)'s [Energy and Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment).  I am also an affiliate of [EPIC](http://epic.uchicago.edu).  My primary research interests are industrial organization and energy economics.
