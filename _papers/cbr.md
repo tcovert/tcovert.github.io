@@ -2,7 +2,7 @@
 title: "Environmental Consequences of Hydrocarbon Infrastructure Policy"
 collection: publications
 permalink: /publication/cbr
-excerpt: '"Keep it in the ground" pipeline bans don't keep much oil in the ground, and they increase local pollution, due to crude-by-rail substitution. (with Ryan Kellogg)'
+excerpt: '``Keep it in the ground'' pipeline bans don't keep much oil in the ground, and they increase local pollution, due to crude-by-rail substitution. (with Ryan Kellogg)'
 date: 2023-09-27
 venue: 'Reject and Resubmit, American Economic Review'
 ---
