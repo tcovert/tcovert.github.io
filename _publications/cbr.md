@@ -15,4 +15,3 @@ ZZZ
 Joint work with [Ryan Kellogg](https://home.uchicago.edu/~kelloggr/)
 
 [Download paper here](http://tcovert.github.io/files/cbr.pdf)
-
