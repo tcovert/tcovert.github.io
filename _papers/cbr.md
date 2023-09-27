@@ -1,12 +1,14 @@
 ---
-title: "Crude by Rail, Option Value, and Pipeline Investment"
+title: "Environmental Consequences of Hydrocarbon Infrastructure Policy"
 collection: publications
 permalink: /publication/cbr
-excerpt: 'The transportation of crude oil by rail reduces incentives to invest in more efficient and safer pipeline technology. (with Ryan Kellogg)'
-date: 2018-12-08
+excerpt: '"Keep it in the ground" pipeline bans don't keep much oil in the ground, and they increase local pollution, due to crude-by-rail substitution. (with Ryan Kellogg)'
+date: 2023-09-27
 venue: 'Reject and Resubmit, American Economic Review'
 ---
-The U.S. shale boom has profoundly increased crude oil movements by both pipelines---the traditional mode of transportation---and railroads. This paper develops a model of how pipeline investment and railroad use are determined in equilibrium, emphasizing how railroads' flexibility allows them to compete with pipelines. We show that policies that address crude-by-rail's environmental externalities by increasing its costs should lead to large increases in pipeline investment and substitution of oil flows from rail to pipe. Similarly, we find that policies enjoining pipeline construction would cause 80--90% of the displaced oil to flow by rail instead.
+We study policies that aim to ``keep carbon in the ground'' by blocking fossil fuel infrastructure investment. Our analysis relies on a model of hydrocarbon production and transportation, incorporating substitution between pipeline infrastructure and flexible alternatives, like crude-by-rail. We apply the model to the Dakota Access Pipeline (DAPL), which moves oil from North Dakota to Texas and was controversially completed in 2017. Had DAPL's construction been enjoined, we estimate that 81% of the blocked pipeline flows would move by rail instead. This substitution induces both private costs and local environmental damage, since rail transport imposes greater local externalities than pipelines.
+
+(previously circulated as "Crude by Rail, Option Value, and Pipeline Investment")
 
 Joint work with [Ryan Kellogg](https://home.uchicago.edu/~kelloggr/)
 
