@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Thomas R. Covert"
 title_separator          : "-"
 name                     : &name "Thomas R. Covert"
-description              : &description "Assistant Professor, University of Chicago Booth School of Business"
+description              : &description "Staff Data Scientist, Airbnb"
 # url                      : https://tcovert.github.io
 url                      : https://tcovert.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   avatar           : "tcovert.jpg" # "profile.png"
   bio              : "Energy/IO Economist"
   location         : "Chicago, IL"
-  employer         : "University of Chicago"
+  employer         : "Airbnb and University of Chicago"
   pubmed           : 
   googlescholar    : 
   email            : "thomas.covert@chicagobooth.edu"
