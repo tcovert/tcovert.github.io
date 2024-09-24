@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
-* July 2015 to present: Assistant Professor, University of Chicago Booth School of Business
+* May 2024 to present: Staff Data Scientist, Airbnb
+* July 2023 to May 2024: Scientific Director, University of Chicago Energy and Environment Laboratory
+* July 2015 to June 2023: Assistant Professor, University of Chicago Booth School of Business
 * July 2014 to June 2015: Postdoctoral Scholar, Energy Policy Institute at Chicago
 * September 2005 to May 2008: Analyst/Senior Analyst, Cornerstone Research
