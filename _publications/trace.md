@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Mandatory Transparency in Financial Market Design: Evidence from the Corporate Bond Market"
 collection: publications
-permalink: /publication/shortbonds
+permalink: /publication/trace
 excerpt: 'We use a difference-in-differences research design to measure the impact of post-trade transparency on corporate bond trading activity and trading costs. (with Paul Asquith and Parag Pathak)'
 date: 2019-04-06
 venue: 'Working Paper'
